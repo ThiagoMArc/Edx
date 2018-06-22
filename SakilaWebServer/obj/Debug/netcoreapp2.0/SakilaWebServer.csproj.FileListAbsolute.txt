@@ -1,0 +1,11 @@
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/bin/Debug/netcoreapp2.0/SakilaWebServer.deps.json
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/bin/Debug/netcoreapp2.0/SakilaWebServer.runtimeconfig.json
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/bin/Debug/netcoreapp2.0/SakilaWebServer.runtimeconfig.dev.json
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/bin/Debug/netcoreapp2.0/SakilaWebServer.dll
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/bin/Debug/netcoreapp2.0/SakilaWebServer.pdb
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/obj/Debug/netcoreapp2.0/SakilaWebServer.csprojResolveAssemblyReference.cache
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/obj/Debug/netcoreapp2.0/SakilaWebServer.csproj.CoreCompileInputs.cache
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/obj/Debug/netcoreapp2.0/SakilaWebServer.AssemblyInfoInputs.cache
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/obj/Debug/netcoreapp2.0/SakilaWebServer.AssemblyInfo.cs
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/obj/Debug/netcoreapp2.0/SakilaWebServer.dll
+/home/thiago-arcanjo/Área de Trabalho/Work/SakilaWebServer/obj/Debug/netcoreapp2.0/SakilaWebServer.pdb
